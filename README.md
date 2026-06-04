@@ -12,7 +12,6 @@ The goal of this project is to develop a **domain-specific application** that co
 ## Project Structure
 - **src/**: Contains Python-based chatbot script and Streamlit main script.
 - **src/materials/**: Contains data that our model will use to answer questions.
-- **report/**: Stores [Report](report) files.
 
 ## Dependencies
 - Python 3.7+
